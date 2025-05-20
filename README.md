@@ -24,3 +24,8 @@
     Funcionality: ❌
 
 --->Responsive design 🟡
+
+<-----------------------PALETA DE COLORES----------------------->
+
+1. lista vacia que alamacena los colores
+2. creacion de un while para la iluminacion de cada colore de 0 a 8 
